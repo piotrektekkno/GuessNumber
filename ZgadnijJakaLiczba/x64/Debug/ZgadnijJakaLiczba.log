@@ -1,0 +1,4 @@
+﻿  ZgadnijJakaLiczba.cpp
+C:\Users\pwozniak\source\repos\ZgadnijJakaLiczba\ZgadnijJakaLiczba\ZgadnijJakaLiczba.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pwozniak\source\repos\ZgadnijJakaLiczba\ZgadnijJakaLiczba\ZgadnijJakaLiczba.cpp(37,21): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+  ZgadnijJakaLiczba.vcxproj -> C:\Users\pwozniak\source\repos\ZgadnijJakaLiczba\x64\Debug\ZgadnijJakaLiczba.exe
